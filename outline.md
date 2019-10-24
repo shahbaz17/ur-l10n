@@ -1,12 +1,16 @@
-# Style guide Language (ab-CD)
+# **Style Guide Urdu (ur)**
 
  <!-- toc -->
 
-> Insert your locale name into the line below and leave it in your style guide unless it does not apply to your locale. You may translate it if your style guide is in your language
+## **Introduction**
+This style guide is intended for translators working on Urdu Mozilla projects. It provides in-depth information about the quality standards expected by Mozilla for the translation of all product components. All translators should read this guide before commencing any translation work.
 
-This style guide provides instruction for translating to the [Your locale name] locale. This style guide is to be used in coordination with the [General Mozilla L10n Style Guide](../mozilla_general/).
+This guide addresses general translation issues and specifies certain rules of style and usage specific to your language. It should be used as a guideline to avoid common typographic errors, and to maintain consistent terminology and writing style across a project’s components and indeed a product range. The guide should be used in conjunction with the current and previous product-specific glossaries, glossaries of other products of a product range, and the industry standard platform-specific glossaries, such as those provided by Microsoft.
 
-> Include other relevant introductory information here, such as a community webpage or contact information.
+This style guide is to be used in coordination with the [General Mozilla L10n Style Guide](../mozilla_general/).
+
+* Team - [https://wiki.mozilla.org/L10n:Teams:ur](https://wiki.mozilla.org/L10n:Teams:ur)
+* Pontoon - [https://pontoon.mozilla.org/ur/](https://pontoon.mozilla.org/ur/)
 
 ## Formality and tone
 
